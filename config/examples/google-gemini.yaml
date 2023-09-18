@@ -1,0 +1,4 @@
+llm:
+  api_type: 'gemini'
+  <REDACTED_SECRET>
+  model: 'gemini-pro'
