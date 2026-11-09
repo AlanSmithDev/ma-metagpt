@@ -1,0 +1,5 @@
+llm:
+  <REDACTED_SECRET>
+  model: "gpt-3.5-turbo"
+  #proxy: "http://<ip>:<port>"
+  #base_url: "https://<forward_url>/v1"
